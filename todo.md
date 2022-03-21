@@ -14,4 +14,20 @@
     "sequelize": "^6.3.5"
  -->
 - [ ] .gitignore
+- [ ] folder structure
+
+  - config
+  - models
+  - views
+  - controller
+  - test
+  - client
+  - seeds
+  - utils
+  - db
+
 - [ ] server.js
+  - [ ] bring express
+  - [ ] config db
+    - [ ] config folder -> connection file
+    - [ ] db folder -> schema
